@@ -1,10 +1,46 @@
+# raphaelyana
+![Profile Views](https://komarev.com/ghpvc/?username=raphaelyana&color=blue&style=flat-square)
+## About me
+---
+I am a French researcher-in-training passionate about **Machine Learning**, **AI**, and intellectually stimulating problems. 
+I am completing a MSc in **Computational Statistics and Machine Learning** at *University College London*, after an MEng in **Electrical & Electronic Engineering** also at *University College London*. 
 
----
-Raphael Yana
----
-Profile test
+My background includes research scientist internships in start-ups and scale ups, with a strong focus on applying theoretical foundations to provide hands-on solutions. I am particularly motivated by the fields of **safety**, **reasoning reliability** and **alignment** of Large Language Models.
+
+<hr style="height:3px; background-color:#bbb; border:none;" />
+
+## Featured Projects
 ---
 
+### [Benchmarking Normative Reasoning in LLMs](https://github.com/raphaelyana/normative_reasoning_and_stereotypes)
+
+### [Speaker Extraction](https://github.com/raphaelyana/speaker_extraction)
+
+
+
+## Areas of Expertise
+---
+- **Natural Language Processing**: Python (NLTK, SpaCy), downstream frameworks on LLMs, transformers, LSTMs.
+- **Deep Learning**: Python (PyTorch), representation learning, neural network optimisation
+- **Unsupervised Learning**: Dimensionality reduction, generative models
+- **Probabilistic Modelling**: Bayesian methods, latent variable models
+- **Optimisation**: unconstrained methods, constrained methods, non-smooth methods, all applied for convex and non-convex data
+- **Reinforcement Learning**: Markov decision processes, dynamic programming, policy/value-based methods
+
+## Experience
+---
+
+### Education
+---
+
+## I am currently learning
+---
+
+
+
+## Fun Facts
+---
+- I always feel bad for not taking some modules, because there are too many choices at univerisity. So I ask my friends to send me all the lecture slides and courseworks materials, and do them on my own in my additional time.
 ---
 <!--
 **raphaelyana/raphaelyana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
