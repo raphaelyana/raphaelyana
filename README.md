@@ -1,5 +1,6 @@
 # raphaelyana
-![Profile Views](https://komarev.com/ghpvc/?username=raphaelyana&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=raphaelyana&color=blue&style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)  
+
 ## About me
 ---
 I am a French researcher-in-training passionate about **Machine Learning**, **AI**, and intellectually stimulating problems. 
@@ -7,7 +8,6 @@ I am completing a MSc in **Computational Statistics and Machine Learning** at *U
 
 My background includes research scientist internships in start-ups and scale ups, with a strong focus on applying theoretical foundations to provide hands-on solutions. I am particularly motivated by the fields of **safety**, **reasoning reliability** and **alignment** of Large Language Models.
 
-<hr style="height:3px; background-color:#bbb; border:none;" />
 
 ## Featured Projects
 ---
