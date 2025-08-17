@@ -45,7 +45,7 @@ My background includes research scientist internships in start-ups and scale ups
 *Sept. 2020 – June 2024* 
 -Scored 68% in average on the taught modules (High Two-One). 
 -MSc Thesis : *Benchmarking Aligned Reasoning in Test-Time Constrained AI Systems*, with focus on LLM reasoning reliability and bias detection. Awaiting mark after submission in Sept. 2025.
-<img style="max-width:100%;" alt="image" src="https://github.com/user-attachments/assets/491155dc-4f15-4156-b296-148a7e0179df" />
+<!-- <img style="max-width:100%;" alt="image" src="https://github.com/user-attachments/assets/491155dc-4f15-4156-b296-148a7e0179df" /> -->
 
 ## Technical skills
 ---
