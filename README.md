@@ -16,7 +16,7 @@ My background includes research scientist internships in start-ups and scale ups
 
 ### [Speaker Extraction](https://github.com/raphaelyana/speaker_extraction)
 
-### [MSc CSML Projects](https://github.com/raphaelyana/csml-portfolio)<img src="https://github.com/user-attachments/assets/5b60e675-b3d0-4060-9bd9-7c0eb4836050" alt="MSc CSML Projects Banner" style="max-width:60%; border-radius:8px;" />
+### [MSc CSML Projects](https://github.com/raphaelyana/csml-portfolio)
 
 
 ## Areas of Expertise
