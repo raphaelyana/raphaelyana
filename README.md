@@ -1,5 +1,6 @@
 # raphaelyana
-![Profile Views](https://komarev.com/ghpvc/?username=raphaelyana&color=blue&style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)  
+![Profile Views](https://komarev.com/ghpvc/?username=raphaelyana&color=blue&style=flat-square) 
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,matlab,git,scikitlearn,cpp,docker,kubernetes)](https://skillicons.dev)
 
 ## About me
 ---
