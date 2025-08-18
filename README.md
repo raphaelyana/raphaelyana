@@ -3,77 +3,66 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,scikitlearn,matlab,git,cpp,docker,kubernetes)](https://skillicons.dev)
 
-## About me
+## About Me
+I am a graduate student passionate about **Machine Learning**, **AI**, and intellectually stimulating problems.  
+
+I am completing an MSc in **Computational Statistics and Machine Learning** at *University College London*, after an MEng in **Electrical & Electronic Engineering**, also at *University College London*.  
+
+My background includes research scientist internships in start-ups and scale-ups, with a strong focus on applying theoretical foundations to provide hands-on solutions.  
+I am particularly motivated by the fields of **safety**, **reasoning reliability**, and **alignment** of Large Language Models. My main goal is to have an impact on people's lives.  
+
 ---
-I am a graduate student passionate about **Machine Learning**, **AI**, and intellectually stimulating problems. 
-
-I am completing a MSc in **Computational Statistics and Machine Learning** at *University College London*, after an MEng in **Electrical & Electronic Engineering** also at *University College London*. 
-
-<br>
-
-My background includes research scientist internships in start-ups and scale ups, with a strong focus on applying theoretical foundations to provide hands-on solutions. 
-I am particularly motivated by the fields of **safety**, **reasoning reliability** and **alignment** of Large Language Models, but my main goal is to have an impact on people's live.
-
 
 ## Featured Projects
+- [**Benchmarking Normative Reasoning in LLMs**](https://github.com/raphaelyana/normative_reasoning_and_stereotypes)  
+- [**Speaker Extraction**](https://github.com/raphaelyana/speaker_extraction)  
+- [**MSc CSML Projects**](https://github.com/raphaelyana/csml-portfolio)  
+
 ---
-
-### [Benchmarking Normative Reasoning in LLMs](https://github.com/raphaelyana/normative_reasoning_and_stereotypes)
-
-### [Speaker Extraction](https://github.com/raphaelyana/speaker_extraction)
-
-### [MSc CSML Projects](https://github.com/raphaelyana/csml-portfolio)
-
 
 ## Areas of Expertise
+- **Natural Language Processing**: Python (SpaCy), LLM fine-tuning, transformers, LSTMs  
+- **Deep Learning**: Python (PyTorch), representation learning, neural network optimisation  
+- **Unsupervised Learning**: Dimensionality reduction, generative models  
+- **Probabilistic Modelling**: Bayesian methods, latent variable models  
+- **Optimisation**: unconstrained methods, constrained methods, and non-smooth methods for convex & non-convex data  
+- **Reinforcement Learning**: Markov decision processes, dynamic programming, policy/value-based methods  
+
 ---
-- **Natural Language Processing**: Python (SpaCy), LLM fine-tuning, transformers, LSTMs.
-- **Deep Learning**: Python (PyTorch), representation learning, neural network optimisation
-- **Unsupervised Learning**: Dimensionality reduction, generative models
-- **Probabilistic Modelling**: Bayesian methods, latent variable models
-- **Optimisation**: unconstrained methods, constrained methods, and non-smooth methods for convex & non-convex data
-- **Reinforcement Learning**: Markov decision processes, dynamic programming, policy-based or value-based methods
 
-### Education
+## Education
+
+### University College London (UCL)  
+**MSc Computational Statistics and Machine Learning**  
+*London, United Kingdom — Sept. 2024 – Sept. 2025*  
+
+- Scored 71% average across taught modules (First)  
+- MSc Thesis: *Benchmarking Aligned Reasoning in Test-Time Constrained AI Systems*, focusing on LLM reasoning reliability and bias detection (awaiting mark)  
+
+### University College London (UCL)  
+**MEng Electrical and Electronic Engineering**  
+*London, United Kingdom — Sept. 2020 – June 2024*  
+
+- Scored 68% average across taught modules (High 2:1)  
+
 ---
-### University College London (UCL)
 
-**Master of Science (MSc) – Computational Statistics and Machine Learning**
+## Technical Skills
+**Languages**  
+- Python (NumPy, pandas, scikit-learn, PyTorch)  
+- C++ (STL containers, memory management)  
+- SQL (nested subqueries)  
 
-*London, United Kingdom*
+**Tools & Frameworks**  
+- Docker, Git, Jupyter  
+- Hugging Face Transformers  
+- Visualisation: Matplotlib  
 
-*Sept. 2024 – Sept. 2025* 
-
--Scored 71% in average on the taught modules (First). 
-
--MSc Thesis : *Benchmarking Aligned Reasoning in Test-Time Constrained AI Systems*, with focus on LLM reasoning reliability and bias detection. Awaiting mark after submission in Sept. 2025.
-
-### University College London (UCL)
-
-**Bachelor with Integrated Masters of Engineering (MEng) – Electrical and Electronics Engineering**
-
-*London, United Kingdom*
-
-*Sept. 2020 – June 2024* 
-
--Scored 68% in average on the taught modules (High Two-One). 
--MSc Thesis : *Benchmarking Aligned Reasoning in Test-Time Constrained AI Systems*, with focus on LLM reasoning reliability and bias detection. Awaiting mark after submission in Sept. 2025.
-
-
-## Technical skills
 ---
-### Languages
-- Python (NumPy, pandas, scikit-learn, PyTorch)
-- C++ (STL containers, memory management)
-- SQL (simple nested subqueries)
-
-### Tools & Frameworks
-- Docker, Git, Jupyter
-- Hugging Face Transformers
-- Visualisation: Matplotlib
 
 ## Experience
----
+
+
 
 
 <!-- ## I am currently learning 
