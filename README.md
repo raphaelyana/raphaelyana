@@ -4,19 +4,18 @@
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,scikitlearn,matlab,git,cpp,docker,kubernetes)](https://skillicons.dev)
 
 ## About Me
-I am a graduate student passionate about **Machine Learning**, **AI**, and intellectually stimulating problems.  
+I am a graduate student passionate about **Machine Learning**, **AI**, and intellectually stimulating problems. I am completing an MSc in **Computational Statistics and Machine Learning** at *University College London*, after an MEng in **Electrical & Electronic Engineering**, also at *University College London*.  
 
-I am completing an MSc in **Computational Statistics and Machine Learning** at *University College London*, after an MEng in **Electrical & Electronic Engineering**, also at *University College London*.  
-
-My background includes research scientist internships in start-ups and scale-ups, with a strong focus on applying theoretical foundations to provide hands-on solutions.  
-I am particularly motivated by the fields of **safety**, **reasoning reliability**, and **alignment** of Large Language Models. My main goal is to have an impact on people's lives.  
+My background includes research scientist internships in start-ups and scale-ups, with a strong focus on applying theoretical foundations to provide hands-on solutions. I am particularly motivated by the fields of **safety**, **reasoning reliability**, and **alignment** of Large Language Models. My main goal is to have an impact on people's lives.  
 
 ---
 
 ## Featured Projects
-- [**Benchmarking Normative Reasoning in LLMs**](https://github.com/raphaelyana/normative_reasoning_and_stereotypes)  
-- [**Speaker Extraction**](https://github.com/raphaelyana/speaker_extraction)  
-- [**MSc CSML Projects**](https://github.com/raphaelyana/csml-portfolio)  
+### [Benchmarking Normative Reasoning in LLMs](https://github.com/raphaelyana/normative_reasoning_and_stereotypes) 
+
+### [Speaker Extraction](https://github.com/raphaelyana/speaker_extraction) 
+
+### [MSc CSML Projects](https://github.com/raphaelyana/csml-portfolio)
 
 ---
 
@@ -63,6 +62,19 @@ I am particularly motivated by the fields of **safety**, **reasoning reliability
 ## Experience
 
 
+### Holistic AI  
+**Part-time Research Scientist**  
+*London, United Kingdom — March 2025 – Sept. 2025*  
+
+- Contributing to two research projects expected to be published, alongside a separate academic paper based on MSc thesis.  
+- Developed reproducible experimental pipelines, data preprocessing workflows, and statistical evaluation scripts in Python to ensure robustness and replicability of results. Collaborated with cross-disciplinary teams, translating technical findings into business-relevant recommendations on ethical AI deployment.    
+
+### Qolaig  
+**AI Research Scientist**  
+*Paris, France — Jan. 2024 – July 2024*  
+
+- Focused on leveraging LLMs to deliver high-performing solutions, optimized token usage and costs to meet specific client requirements. Developed automation solutions across multiple verticals, including customer support, operations and sales.
+- Modelled research on Machine Learning Operations solutions and programmed a deployment framework for Mistral 7B model, leveraged platforms such as Paper-Space to deploy dockerized models onto remote GPUs for accelerated use.  
 
 
 <!-- ## I am currently learning 
