@@ -1,6 +1,7 @@
 # raphaelyana
-![Profile Views](https://komarev.com/ghpvc/?username=raphaelyana&color=blue&style=flat-square) 
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,matlab,git,scikitlearn,cpp,docker,kubernetes)](https://skillicons.dev)
+![Profile Views](https://komarev.com/ghpvc/?username=raphaelyana&color=blue&style=flat-square) ![Spark](https://img.shields.io/badge/Spark-FF7F50?style=flat-square&logo=apachespark&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFCA28?style=flat-square&logo=huggingface&logoColor=black)
+
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,scikitlearn,matlab,git,cpp,docker,kubernetes)](https://skillicons.dev)
 
 ## About me
 ---
