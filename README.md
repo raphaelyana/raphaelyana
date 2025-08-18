@@ -6,9 +6,13 @@
 ## About me
 ---
 I am a graduate student passionate about **Machine Learning**, **AI**, and intellectually stimulating problems. 
+
 I am completing a MSc in **Computational Statistics and Machine Learning** at *University College London*, after an MEng in **Electrical & Electronic Engineering** also at *University College London*. 
 
-My background includes research scientist internships in start-ups and scale ups, with a strong focus on applying theoretical foundations to provide hands-on solutions. I am particularly motivated by the fields of **safety**, **reasoning reliability** and **alignment** of Large Language Models, but my main goal is to have an impact on people's live.
+<br>
+
+My background includes research scientist internships in start-ups and scale ups, with a strong focus on applying theoretical foundations to provide hands-on solutions. 
+I am particularly motivated by the fields of **safety**, **reasoning reliability** and **alignment** of Large Language Models, but my main goal is to have an impact on people's live.
 
 
 ## Featured Projects
@@ -23,7 +27,7 @@ My background includes research scientist internships in start-ups and scale ups
 
 ## Areas of Expertise
 ---
-- **Natural Language Processing**: Python (NLTK, SpaCy), LLM fine-tuning, transformers, LSTMs.
+- **Natural Language Processing**: Python (SpaCy), LLM fine-tuning, transformers, LSTMs.
 - **Deep Learning**: Python (PyTorch), representation learning, neural network optimisation
 - **Unsupervised Learning**: Dimensionality reduction, generative models
 - **Probabilistic Modelling**: Bayesian methods, latent variable models
@@ -35,19 +39,26 @@ My background includes research scientist internships in start-ups and scale ups
 ### University College London (UCL)
 
 **Master of Science (MSc) – Computational Statistics and Machine Learning**
+
 *London, United Kingdom*
+
 *Sept. 2024 – Sept. 2025* 
+
 -Scored 71% in average on the taught modules (First). 
+
 -MSc Thesis : *Benchmarking Aligned Reasoning in Test-Time Constrained AI Systems*, with focus on LLM reasoning reliability and bias detection. Awaiting mark after submission in Sept. 2025.
 
 ### University College London (UCL)
 
 **Bachelor with Integrated Masters of Engineering (MEng) – Electrical and Electronics Engineering**
+
 *London, United Kingdom*
+
 *Sept. 2020 – June 2024* 
+
 -Scored 68% in average on the taught modules (High Two-One). 
 -MSc Thesis : *Benchmarking Aligned Reasoning in Test-Time Constrained AI Systems*, with focus on LLM reasoning reliability and bias detection. Awaiting mark after submission in Sept. 2025.
-<!-- <img style="max-width:100%;" alt="image" src="https://github.com/user-attachments/assets/491155dc-4f15-4156-b296-148a7e0179df" /> -->
+
 
 ## Technical skills
 ---
