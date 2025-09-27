@@ -13,6 +13,22 @@ My background includes research scientist internships in start-ups and scale-ups
 ## Featured Projects
 ### [Benchmarking Normative Reasoning in LLMs](https://github.com/raphaelyana/normative_reasoning_and_stereotypes) 
 
+:page_with_curl: Paper: Under construction :pencil2::construction:.
+
+:bar_chart: Datasets: MGSD (stereotype detection), MentalManip (manipulation detection), MMLU (benchmark for several categories), MMLU-Large (narrowing MMLU to 4 categories: Professional Law, Moral Dilemmas, College Mathematics, Formal Logic).
+
+**Overview** Master Thesis project for benchmarking LLMs in Normative Reasoning tasks, assessing the effects of demographic role-playing and their stability. Compares 6 in-context learning strategies with 6 models on the datasets. Compares also 60 demographic profiles (along ethnicity, gender and age), and introduces newly designed stability metrics for explaining performance beyond accuracy.
+
+**Repository contents**:
+- A reproducible cost-aware benchmark;
+- A multi-level statistical framework for analysis of demographic and behavioral effects;
+- Tools for metrics vizualisation;
+
+**Main Results Interpretations**:
+- Simple strategies provide better outcomes with less resource consumptions (tokens, latency);
+- Choice on models has more impact on accuracy and obtained results than prompt engineering;
+- Demographic role-playing has not much identified impact although at first sight, it seemed to be a concern; stability metrics return more insights on LLMs performance differences.
+
 ### [Speaker Extraction](https://github.com/raphaelyana/speaker_extraction) 
 
 A recent project leveraging LLMs to extract from a given book all the sentences spoked by a character. The process keeps track of the book structures and paragraphs numbers within the structure layers, and reports them along with the extracted sentences. Also allows for extracting narration if the character is both a narrator and a speaker (*e.g.* Socrates in The Republic).
