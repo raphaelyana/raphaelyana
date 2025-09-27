@@ -15,6 +15,8 @@ My background includes research scientist internships in start-ups and scale-ups
 
 ### [Speaker Extraction](https://github.com/raphaelyana/speaker_extraction) 
 
+A recent project leveraging LLMs to extract from a given book all the sentences spoked by a character. The process keeps track of the book structures and paragraphs numbers within the structure layers, and reports them along with the extracted sentences. Also allows for extracting narration if the character is both a narrator and a speaker (*e.g.* Socrates in The Republic).
+
 ### [MSc CSML Projects](https://github.com/raphaelyana/csml-portfolio)
 
 ---
