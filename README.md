@@ -11,6 +11,15 @@ My background includes research scientist internships in start-ups and scale-ups
 ---
 
 ## Featured Projects
+
+### [Itinerary Planner](https://github.com/raphaelyana/itinerary_planner)
+
+:trophy: Algorithm used to score 2nd in a Mistral AI hackathon, taking place at the [Palace of Versailles](https://en.wikipedia.org/wiki/Palace_of_Versailles). 
+
+**The Mission**: Use LLM technologies to build a full solution for the Castle so that people can get informations easily (the website is kind of complicated to go through) and build them a personalised itinerary based on the preferences. 
+
+**Challenges**: LLMs do not plan itineraries well. Thus, I came up with an idea to build a graph and optimize the path based on the remaining nodes corresponding to the preferences. This repository thus contains an improved version of it to be deployed using Render. It also leverages Neo4j's cloud platform, AuraDB, for handling the data and making the graph. This project is still in debugging but I will provide soon a website link that will permit people to test the model put in production. 
+
 ### [Benchmarking Normative Reasoning in LLMs](https://github.com/raphaelyana/normative_reasoning_and_stereotypes) 
 
 :page_with_curl: Paper: Under construction :pencil2::construction:.
