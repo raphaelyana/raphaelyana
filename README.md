@@ -88,6 +88,13 @@ A recent project leveraging LLMs to extract from a given book all the sentences 
 
 ## Experience
 
+### AI Score
+**Applied AI Engineer**
+*London, United Kingdom - Oct. 2025 - Currently*
+
+- Building the entire start-up on the Artificial Intelligence and Machine Learning side, collaborating closely with Software Engineers to integrate scalable speed-driven Machine Learning models.
+- Building an end-to-end Machine Learning product, 
+
 
 ### Holistic AI  
 **Part-time Research Scientist**  
