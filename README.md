@@ -62,8 +62,8 @@ A recent project leveraging LLMs to extract from a given book all the sentences 
 **MSc Computational Statistics and Machine Learning**  
 *London, United Kingdom — Sept. 2024 – Sept. 2025*  
 
-- Scored 71% average across taught modules (First)  
-- MSc Thesis: *Benchmarking Aligned Reasoning in Test-Time Constrained AI Systems*, focusing on LLM reasoning reliability and bias detection (awaiting mark)  
+- Obtained a Distinction.
+- MSc Thesis: *Benchmarking Aligned Reasoning in Test-Time Constrained AI Systems*, focusing on LLM reasoning reliability and bias detection. Grade: 67%.
 
 ### University College London (UCL)  
 **MEng Electrical and Electronic Engineering**  
@@ -93,7 +93,7 @@ A recent project leveraging LLMs to extract from a given book all the sentences 
 *London, United Kingdom - Oct. 2025 - Currently*
 
 - Building the entire start-up on the Artificial Intelligence and Machine Learning side, collaborating closely with Software Engineers to integrate scalable speed-driven Machine Learning models.
-- Building an end-to-end Machine Learning product, 
+- Building an end-to-end Machine Learning product, deploying MLflow locally for efficient result report.
 
 
 ### Holistic AI  
