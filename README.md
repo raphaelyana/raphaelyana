@@ -22,7 +22,7 @@ My background includes research scientist internships in start-ups and scale-ups
 
 ### [Benchmarking Normative Reasoning in LLMs](https://github.com/raphaelyana/normative_reasoning_and_stereotypes) 
 
-:page_with_curl: Paper: Under construction :pencil2::construction:.
+:page_with_curl: Paper: Out of respect for my current experience, I did not publish any paper regarding this work; this would have conflicted with the fact I was not supposed to do any work for other competitors, which I respected. It did not, however, reflect the quality of my work for this Master Thesis, in which I did put an important amount of efforts :pencil2::construction:.
 
 :bar_chart: Datasets: MGSD (stereotype detection), MentalManip (manipulation detection), MMLU (benchmark for several categories), MMLU-Large (narrowing MMLU to 4 categories: Professional Law, Moral Dilemmas, College Mathematics, Formal Logic).
 
