@@ -12,7 +12,7 @@
 ## About Me
 I am a graduate student passionate about **Machine Learning**, **AI**, and intellectually stimulating problems. I am completing an MSc in **Computational Statistics and Machine Learning** at *University College London*, after an MEng in **Electrical & Electronic Engineering**, also at *University College London*.  
 
-My background includes research scientist internships in start-ups and scale-ups, with a strong focus on applying theoretical foundations to provide hands-on solutions. I am particularly motivated by the fields of **safety**, **reasoning reliability**, and **alignment** of Large Language Models. My main goal is to have an impact on people's lives.  
+My background includes research scientist internships in start-ups and scale-ups, with a strong focus on applying theoretical foundations to provide hands-on solutions. I am particularly motivated by the fields of **safety**, **reasoning reliability**, and **alignment** of Large Language Models.  
 
 ---
 
