@@ -95,26 +95,27 @@ A recent project leveraging LLMs to extract from a given book all the sentences 
 ## Experience
 
 ### AI Score
-**Applied AI Engineer**
-*London, United Kingdom - Oct. 2025 - Currently*
+**Founding AI/ML Engineer**
+*London, United Kingdom - Oct. 2025 - Sept. 2026*
 
-- Building the entire start-up on the Artificial Intelligence and Machine Learning side, collaborating closely with Software Engineers to integrate scalable speed-driven Machine Learning models.
-- Building an end-to-end Machine Learning product, deploying MLflow locally for efficient result report.
+- As employee #2 (pre-seed through $5.4M seed), owned ML pipeline end-to-end: full data-curation, training, testing, and MLOps monitoring. Shipped production NLP models on text data.
+- Engineered under hard CPU-only, low-latency constraints; built classical NLP feature pipelines; quantized and pruned models.
 
 
 ### Holistic AI  
 **Part-time Research Scientist**  
 *London, United Kingdom — March 2025 – Sept. 2025*  
 
-- Contributing to two research projects expected to be published, alongside a separate academic paper based on MSc thesis.  
+- Contributing to two research projects, alongside a separate academic paper based on MSc thesis.  
 - Developed reproducible experimental pipelines, data preprocessing workflows, and statistical evaluation scripts in Python to ensure robustness and replicability of results. Collaborated with cross-disciplinary teams, translating technical findings into business-relevant recommendations on ethical AI deployment.    
 
 ### Qolaig  
 **AI Research Scientist**  
 *Paris, France — Jan. 2024 – July 2024*  
 
-- Focused on leveraging LLMs to deliver high-performing solutions, optimized token usage and costs to meet specific client requirements. Developed automation solutions across multiple verticals, including customer support, operations and sales.
-- Modelled research on Machine Learning Operations solutions and programmed a deployment framework for Mistral 7B model, leveraged platforms such as Paper-Space to deploy dockerized models onto remote GPUs for accelerated use.  
+- Designed LLM agent automation pipelines across enterprise workflows (customer support, operations, sales) and integrated them into client systems; cut inference costs through caching repeated calls and prompt restructuring to meet client requirements.
+- Built a deployment framework for Mistral 7B model, containerised models with Docker and deployed to remote GPUs (Paperspace) for accelerated inference.
+
 
 
 <!-- ## I am currently learning 
