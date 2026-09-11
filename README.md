@@ -1,7 +1,13 @@
 # raphaelyana
-![Profile Views](https://komarev.com/ghpvc/?username=raphaelyana&color=blue&style=flat-square) ![Spark](https://img.shields.io/badge/Spark-FF7F50?style=flat-square&logo=apachespark&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFCA28?style=flat-square&logo=huggingface&logoColor=black)
+![Profile Views](https://komarev.com/ghpvc/?username=raphaelyana&color=blue&style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCA28?style=flat-square&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,scikitlearn,matlab,git,docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,sklearn,huggingface,docker,git,postgres)](https://skillicons.dev)
 
 ## About Me
 I am a graduate student passionate about **Machine Learning**, **AI**, and intellectually stimulating problems. I am completing an MSc in **Computational Statistics and Machine Learning** at *University College London*, after an MEng in **Electrical & Electronic Engineering**, also at *University College London*.  
@@ -12,31 +18,31 @@ My background includes research scientist internships in start-ups and scale-ups
 
 ## Featured Projects
 
-### [Itinerary Planner](https://github.com/raphaelyana/itinerary_planner)
+### [Itinerary Planner - 2nd Place at Mistral AI Hackathon](https://github.com/raphaelyana/itinerary_planner)
 
 :trophy: Algorithm used to score 2nd in a Mistral AI hackathon, taking place at the [Palace of Versailles](https://en.wikipedia.org/wiki/Palace_of_Versailles). 
 
 **The Mission**: Use LLM technologies to build a full solution for the Castle so that people can get informations easily (the website is kind of complicated to go through) and build them a personalised itinerary based on the preferences. 
 
-**Challenges**: LLMs do not plan itineraries well. Thus, I came up with an idea to build a graph and optimize the path based on the remaining nodes corresponding to the preferences. This repository thus contains an improved version of it to be deployed using Render. It also leverages Neo4j's cloud platform, AuraDB, for handling the data and making the graph. This project is still in debugging but I will provide soon a website link that will permit people to test the model put in production. 
+**Challenges**: LLMs do not plan itineraries well. Thus, I came up with an idea to build a graph and optimize the path based on the remaining nodes corresponding to the preferences. Framing it into an Orienteering Problem with Time Windows (which selects the nodes worth to visit under the time budget, not just orders them), I built an OR-Tools solver with guided local search over a graph. Currently extending it with a RL agent benchmarked against the solver.
 
 ### [Benchmarking Normative Reasoning in LLMs](https://github.com/raphaelyana/normative_reasoning_and_stereotypes) 
 
-:page_with_curl: Paper: Out of respect for my current experience, I did not publish any paper regarding this work; this would have conflicted with the fact I was not supposed to do any work for other competitors, which I respected. It did not, however, reflect the quality of my work for this Master Thesis, in which I did put an important amount of efforts :pencil2::construction:.
+:page_facing_up: **[Benchmarking Aligned Reasoning in Test-Time Constrained AI Systems: Full Write Up](https://github.com/raphaelyana/normative_reasoning_and_stereotypes/blob/main/Yana-MSc-Thesis.pdf).** MSc thesis, University College London X Holistic AI, 2025.
 
-:bar_chart: Datasets: MGSD (stereotype detection), MentalManip (manipulation detection), MMLU (benchmark for several categories), MMLU-Large (narrowing MMLU to 4 categories: Professional Law, Moral Dilemmas, College Mathematics, Formal Logic).
+:bar_chart: Datasets: MGSD (stereotype detection), MentalManip (manipulation detection), MMLU (benchmark for several categories), MMLU-Large (narrowing MMLU to 4 categories with more samples, 2 normative and 2 logical reasoning: Professional Law, Moral Dilemmas, College Mathematics, Formal Logic).
 
-**Overview** Master Thesis project for benchmarking LLMs in Normative Reasoning tasks, assessing the effects of demographic role-playing and their stability. Compares 6 in-context learning strategies with 6 models on the datasets. Compares also 60 demographic profiles (along ethnicity, gender and age), and introduces newly designed stability metrics for explaining performance beyond accuracy.
+**Overview** Master Thesis project for benchmarking LLMs in normative reasoning tasks, by assessing in context-learning strategies and demographic role-play effects. Benchmarks 6 in-context learning strategies across 6 models and 4 datasets. Evaluates GPT-4.1-mini over 60 demographic role-play profiles (along ethnicity, gender and age) through a three-level statistical pipeline, and introduces newly designed consensus-based stability metrics for explaining performance beyond accuracy (COI, ATI, CAI).
 
 **Repository contents**:
 - A reproducible cost-aware benchmark;
-- A multi-level statistical framework for analysis of demographic and behavioral effects;
-- Tools for metrics vizualisation;
+- A multi-level statistical framework for analysis of demographic and behavioural effects;
+- Tools for metrics visualisation;
 
 **Main Results Interpretations**:
-- Simple strategies provide better outcomes with less resource consumptions (tokens, latency);
-- Choice on models has more impact on accuracy and obtained results than prompt engineering;
-- Demographic role-playing has not much identified impact although at first sight, it seemed to be a concern; stability metrics return more insights on LLMs performance differences.
+- Few-shots with definition reaches approximately ~95% of best strategy's accuracy at half the token cost, it beats complex reasoning;
+- Demographic role-playing explains under 3% of the performance variance, and fails to generalise out-of-sample (which challenges the field's focus on debiasing);
+- Behavioural patterns can be surfaced by the new consistency-boldness metrics, missed before by accuracy and other metrics.
 
 ### [Speaker Extraction](https://github.com/raphaelyana/speaker_extraction) 
 
@@ -48,10 +54,10 @@ A recent project leveraging LLMs to extract from a given book all the sentences 
 
 ## Areas of Expertise
 - **Natural Language Processing**: Python (SpaCy), LLM fine-tuning, transformers, LSTMs  
-- **Deep Learning**: Python (PyTorch), representation learning, neural network optimisation  
+- **Deep Learning**: Python (PyTorch), representation learning, neural network optimisation
+- **Optimisation**: OR-tools, unconstrained methods, constrained methods, and non-smooth methods for convex & non-convex data
 - **Unsupervised Learning**: Dimensionality reduction, generative models  
-- **Probabilistic Modelling**: Bayesian methods, latent variable models  
-- **Optimisation**: unconstrained methods, constrained methods, and non-smooth methods for convex & non-convex data  
+- **Probabilistic Modelling**: Bayesian methods, latent variable models    
 - **Reinforcement Learning**: Markov decision processes, dynamic programming, policy/value-based methods  
 
 ---
@@ -63,13 +69,13 @@ A recent project leveraging LLMs to extract from a given book all the sentences 
 *London, United Kingdom — Sept. 2024 – Sept. 2025*  
 
 - Obtained a Distinction.
-- MSc Thesis: *Benchmarking Aligned Reasoning in Test-Time Constrained AI Systems*, focusing on LLM reasoning reliability and bias detection. Grade: 67%.
+- MSc Thesis: *Benchmarking Aligned Reasoning in Test-Time Constrained AI Systems*, focusing on LLM reasoning reliability and evaluation under test-time constraints.
 
 ### University College London (UCL)  
 **MEng Electrical and Electronic Engineering**  
 *London, United Kingdom — Sept. 2020 – June 2024*  
 
-- Scored 68% average across taught modules (High 2:1)  
+- Obtained a Second Class Honours - Upper Division (High 2:1) 
 
 ---
 
