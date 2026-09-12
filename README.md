@@ -12,7 +12,7 @@
 ## About Me
 I am a graduate student passionate about **Machine Learning**, **AI**, and intellectually stimulating problems. I am completing an MSc in **Computational Statistics and Machine Learning** at *University College London*, after an MEng in **Electrical & Electronic Engineering**, also at *University College London*.  
 
-My background includes research scientist internships in start-ups and scale-ups, with a strong focus on applying theoretical foundations to provide hands-on solutions. I am particularly motivated by the fields of **safety**, **reasoning reliability**, and **alignment** of Large Language Models.  
+My background includes research scientist internships in start-ups and scale-ups, with a strong focus on applying theoretical foundations to provide hands-on solutions. I am particularly motivated by the fields of **safety**, **reasoning reliability**, and **alignment** of Large Language Models and World Models.  
 
 ---
 
@@ -68,14 +68,14 @@ A recent project leveraging LLMs to extract from a given book all the sentences 
 **MSc Computational Statistics and Machine Learning**  
 *London, United Kingdom — Sept. 2024 – Sept. 2025*  
 
-- Obtained a Distinction.
+- Grade: Distinction.
 - MSc Thesis: *Benchmarking Aligned Reasoning in Test-Time Constrained AI Systems*, focusing on LLM reasoning reliability and evaluation under test-time constraints.
 
 ### University College London (UCL)  
 **MEng Electrical and Electronic Engineering**  
 *London, United Kingdom — Sept. 2020 – June 2024*  
 
-- Obtained a Second Class Honours - Upper Division (High 2:1) 
+- Grade: Second Class Honours - Upper Division (High 2:1).
 
 ---
 
