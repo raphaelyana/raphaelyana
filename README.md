@@ -99,7 +99,7 @@ A recent project leveraging LLMs to extract from a given book all the sentences 
 *London, United Kingdom - Oct. 2025 - Sept. 2026*
 
 - As employee #2 (pre-seed through $5.4M seed), owned ML pipeline end-to-end: full data-curation, training, testing, and MLOps monitoring. Shipped production NLP models on text data, reaching 84% F1 score on some tasks.
-- Engineered under hard CPU-only, low-latency constraints; built classical NLP feature pipelines; applied quantization and pruned models to fit in constraints, even on lightweight models.
+- Engineered under hard CPU-only, low-latency constraints; built classical NLP feature pipelines; applied quantization and pruned models to fit in constraints, reaching sub-30ms and inference at <100MB running on CPU.
 
 
 ### Holistic AI  
