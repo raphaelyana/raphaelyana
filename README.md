@@ -107,7 +107,10 @@ A recent project leveraging LLMs to extract from a given book all the sentences 
 *London, United Kingdom — March 2025 – Sept. 2025*  
 
 - Contributing to two research projects, alongside a separate academic paper based on MSc thesis.  
-- Developed reproducible experimental pipelines, data preprocessing workflows, and statistical evaluation scripts in Python to ensure robustness and replicability of results. Collaborated with cross-disciplinary teams, translating technical findings into business-relevant recommendations on ethical AI deployment.    
+- Developed reproducible experimental pipelines, data preprocessing workflows, and statistical evaluation scripts in Python to ensure robustness and replicability of results. Collaborated with cross-disciplinary teams, translating technical findings into business-relevant recommendations on ethical AI deployment.
+- Built a cost-aware benchmark of 6 in-context-learning across 4 normative reasoning datasets; showed few-shot-with-definition captures >94% of best strategy’s accuracy at half of token cost.
+- Evaluated 60 demographic role-play profiles through a three-level statistical pipeline (Generalized Linear Models, permutation tests, variance decomposition); found demographic framing explained <3% of performance variance and failed to generalise out-of-sample, which goes against the field's focus on debiasing.
+- Designed novel consensus-based stability metrics (leave-one-out analysis); showed how deviation from consensus helps accuracy on knowledge tasks (MMLU) while harms on normative tasks, which uncovers behavioural patterns.  
 
 ### Qolaig  
 **AI Research Scientist**  
