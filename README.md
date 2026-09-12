@@ -98,8 +98,8 @@ A recent project leveraging LLMs to extract from a given book all the sentences 
 **Founding AI/ML Engineer**
 *London, United Kingdom - Oct. 2025 - Sept. 2026*
 
-- As employee #2 (pre-seed through $5.4M seed), owned ML pipeline end-to-end: full data-curation, training, testing, and MLOps monitoring. Shipped production NLP models on text data.
-- Engineered under hard CPU-only, low-latency constraints; built classical NLP feature pipelines; quantized and pruned models.
+- As employee #2 (pre-seed through $5.4M seed), owned ML pipeline end-to-end: full data-curation, training, testing, and MLOps monitoring. Shipped production NLP models on text data, reaching 84% F1 score on some tasks.
+- Engineered under hard CPU-only, low-latency constraints; built classical NLP feature pipelines; applied quantization and pruned models to fit in constraints, even on lightweight models.
 
 
 ### Holistic AI  
