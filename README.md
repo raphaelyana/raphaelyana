@@ -34,12 +34,12 @@ My background includes research scientist internships in start-ups and scale-ups
 
 **Overview** Master Thesis project for benchmarking LLMs in normative reasoning tasks, by assessing in context-learning strategies and demographic role-play effects. Benchmarks 6 in-context learning strategies across 6 models and 4 datasets. Evaluates GPT-4.1-mini over 60 demographic role-play profiles (along ethnicity, gender and age) through a three-level statistical pipeline, and introduces newly designed consensus-based stability metrics for explaining performance beyond accuracy (COI, ATI, CAI).
 
-**Repository contents**:
+**Contents in Repository**:
 - A reproducible cost-aware benchmark;
 - A multi-level statistical framework for analysis of demographic and behavioural effects;
 - Tools for metrics visualisation;
 
-**Main Results Interpretations**:
+**Main Results Obtained**:
 - Few-shots with definition reaches approximately ~95% of best strategy's accuracy at half the token cost, it beats complex reasoning;
 - Demographic role-playing explains under 3% of the performance variance, and fails to generalise out-of-sample (which challenges the field's focus on debiasing);
 - Behavioural patterns can be surfaced by the new consistency-boldness metrics, missed before by accuracy and other metrics.
