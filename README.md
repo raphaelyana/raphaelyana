@@ -18,7 +18,7 @@ My background includes research scientist internships in start-ups and scale-ups
 
 ## Featured Projects
 
-### [Predicting refusal from short prefixes](https://github.com/raphaelyana/reasoning_prefix))
+### [Predicting refusal from short prefixes](https://github.com/raphaelyana/reasoning_prefix)
 
 Independent research project studying if a separate monitor can distinguish reasoning trajectories beginning from the same request but receiving different refusal outcomes. Consider it as an extension of existing paper: ["Where do Reasoning Models Refuse"]() by _Yamaguchi et al._
 
