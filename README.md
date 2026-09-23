@@ -18,13 +18,37 @@ My background includes research scientist internships in start-ups and scale-ups
 
 ## Featured Projects
 
-### [Itinerary Planner - 2nd Place at Mistral AI Hackathon](https://github.com/raphaelyana/itinerary_planner)
+### [Predicting refusal from short prefixes](https://github.com/raphaelyana/reasoning_prefix))
 
-:trophy: Algorithm used to score 2nd in a Mistral AI hackathon, taking place at the [Palace of Versailles](https://en.wikipedia.org/wiki/Palace_of_Versailles). 
+Independent research project studying if a separate monitor can distinguish reasoning trajectories beginning from the same request but receiving different refusal outcomes. Consider it as an extension of existing paper: ["Where do Reasoning Models Refuse"]() by _Yamaguchi et al._
+
+**What I did**:
+- Analysed 399 released trajectories from 4 different reasoning models
+- Designed a within-request paired evaluation system at fixed checkpoints (either at 3 or 5 reasoning sentences), removing length exposure leak identified during experimentation.
+- Compared the monitor's performance against the character length and refusal-keyword baselines.
+
+**Obtained results**: After 5 sentences, the monitor achieved 81.5% pairwise accuracy in identifying non-refusal-labelled member of each pair, with half credit attributed to tied scores. Used 95% model-stratified, and obtained a confidence interval of: [76.4%, 86.3%].
+
+**Repo contents**: Contains a reproducible analysis, with detailed data provenance
+
+### [Versailles Castle Itinerary Planner](https://github.com/raphaelyana/itinerary_planner)
+
+:trophy: Algorithm used to score **2nd** place in a Mistral AI hackathon in 2025, taking place at the [Palace of Versailles](https://en.wikipedia.org/wiki/Palace_of_Versailles). 
 
 **The Mission**: Use LLM technologies to build a full solution for the Castle so that people can get informations easily (the website is kind of complicated to go through) and build them a personalised itinerary based on the preferences. 
 
-**Challenges**: LLMs do not plan itineraries well. Thus, I came up with an idea to build a graph and optimize the path based on the remaining nodes corresponding to the preferences. Framing it into an Orienteering Problem with Time Windows (which selects the nodes worth to visit under the time budget, not just orders them), I built an OR-Tools solver with guided local search over a graph. Currently extending it with a RL agent benchmarked against the solver.
+**Challenges**: LLMs do not plan itineraries well. Thus, I came up with an idea to build a graph and optimize the path based on the remaining nodes corresponding to the preferences.
+
+**Solution**: 
+- Switched from Travelling Salesman Problem to Orienteering Problem with Time Window (OPTW) which was more suiting in terms of the constraints and permits to make a better choice on which nodes to stop at.
+- Algorithm builds an in-memory NetworkX graph containing 161 nodes (called POIs) and 212 edges (corresponding to walkable paths);
+- Enforced constraints on time budget, opening hours, accessibility (1st floor of Trianon is not accessible for mobility handicaped people), excluded zones, repeat visits, and the travel path to come back to the exit through **hard feasibility masks**.
+- Implemented baselines: random node selection, nearest-neighbour (highest value next in surrounding nodes), greedy utility-density and OR-tools.
+
+**Results**
+- Across the benchmark over 12 scenarios, the greedy density (searching to maximize the utility per minute) achieved 96% of the OR-tools utility, compared to 45% for the nearest-neighbour planning.
+
+This repository permits to reproduce the scenarios, invariant tests, the benchmark results, the graph validation and plots.
 
 ### [Benchmarking Normative Reasoning in LLMs](https://github.com/raphaelyana/normative_reasoning_and_stereotypes) 
 
